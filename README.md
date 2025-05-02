@@ -1,7 +1,7 @@
 ## Hi there 👋
 # Hi there, I'm Dennis Brian Kavuwa! 👋
 
-![Banner Image](https://raw.githubusercontent.com/yourusername/yourrepo/main/banner.png)
+![Banner Image](https://github.com/DennisKavuwa/denniskavuwa/blob/main/Developer%20Banner.jpg)
 
 ## About Me 🚀
 
